@@ -9,11 +9,11 @@
 ### Содержание: / Content:
 
   - [Анализ игровых платформ / Common project - *Project 1*](https://github.com/mishra-alla/yap_projects/)
-  - [Введение в машинное обучение / Introduction to machine learning  - *Project_02*](https://github.com/mishra-alla/yap_projects/)
+  - [Введение в машинное обучение / Introduction to machine learning  - *Project_2*](https://github.com/mishra-alla/yap_projects/)
   - [Обучение с учителем / Supervised learning  - *Project_03*](https://github.com/mishra-alla/yap_projects/tree/main/project_3)
-  - [Машинное обучение в бизнесе / Machine learning in business  - *Project_04*](https://github.com/mishra-alla/yap_projects/tree/main/project_3)
-  - [Сборный проект / Common project  - *Project_05*](https://github.com/mishra-alla/yap_projects/tree/main/project_3)
-  - [Линейная алгебра / Linear algebra  - *Project_06*](https://github.com/mishra-alla/yap_projects/tree/main/project_3)
+  - [Машинное обучение в бизнесе / Machine learning in business  - *Project_4*](https://github.com/mishra-alla/yap_projects/tree/main/project_3)
+  - [Сборный проект / Common project  - *Project_5*](https://github.com/mishra-alla/yap_projects/tree/main/project_3)
+  - [Линейная алгебра / Linear algebra  - *Project_6*](https://github.com/mishra-alla/yap_projects/tree/main/project_3)
   - [Численные методы (градиентный бустинг) / Numerical analysis (gradient boosting)  - *Project_7*](https://github.com/mishra-alla/yap_projects/tree/main/project_3)
   - [Временные ряды / Time series  - *Project_8*](https://github.com/Reustlin/Yandex.Practicum-Data-Science/tree/main/Project%208%20-%20time%20series%20(taxi%20orders))
   - [Машинное обучение для текстов / Machine learning for texts  - *Project_9.1*](https://github.com/mishra-alla/yap_projects/tree/main/project_2)
