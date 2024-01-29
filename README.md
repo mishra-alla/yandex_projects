@@ -20,25 +20,6 @@
 |DA_2|[Выявление закономерностей, определяющих коммерческую успешность компьютерных игр](https://github.com/mishra-alla/yap_projects/blob/main/project_1/Project_1.Analysis%20of%20game%20latform.ipynb)|Интернет-магазин «Стримчик» продаёт по всему миру компьютерные игры. Задача: выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании|`pandas` `numpy` `scipy` `matplotlib` `plotly` `math`|
 |DA_1|[Исследование объявлений о продаже квартир](https://github.com/mishra-alla/yandex_projects/blob/main/project_DA/Apartments_advertisments.ipynb)|Имеем данные сервиса Яндекс.Недвижимость — архив объявлений о продаже квартир в Санкт-Петербурге и соседних населённых пунктов за несколько лет. Определять рыночную стоимость объектов недвижимости. Задача — Установить основные параметры, которые позволят построить автоматизированную систему для отслеживания аномалии и мошеннической деятельности.|`pandas` `numpy` `matplotlib` `sklearn`|
 
-### О курсе / About program
-
-- Ссылка на курс: https://practicum.yandex.ru/data-scientist/
-
-### Содержание: / Content:
-
-  - [Анализ игровых платформ / Common project - *Project 1*](https://github.com/mishra-alla/yap_projects/)
-  - [Введение в машинное обучение / Introduction to machine learning  - *Project_2*](https://github.com/mishra-alla/yap_projects/)
-  - [Обучение с учителем / Supervised learning  - *Project_03*](https://github.com/mishra-alla/yap_projects/tree/)
-  - [Машинное обучение в бизнесе / Machine learning in business  - *Project_4*](https://github.com/mishra-alla/yap_projects/tree/)
-  - [Сборный проект / Common project  - *Project_5*](https://github.com/mishra-alla/yap_projects/tree/main/project_5)
-  - [Линейная алгебра / Linear algebra  - *Project_6*](https://github.com/mishra-alla/yap_projects/tree/main)
-  - [Численные методы (градиентный бустинг) / Numerical analysis (gradient boosting)  - *Project_7*](https://github.com/mishra-alla/yap_projects/tree/)
-  - [Временные ряды / Time series  - *Project_8*](https://github.com/mishra-alla/yap_projects/tree)
-  - [Машинное обучение для текстов / Machine learning for texts  - *Project_9.1*](https://github.com/mishra-alla/yap_projects/tree/main/project_9.2)
-  - [Машинное обучение для текстов (BERT) / Machine learning for texts  - *Project_9.2*](https://github.com/mishra-alla/yap_projects/tree/main/project_9.2)
-  - [Компьютерное зрение / Computer vision  - *Project_10*](https://github.com/mishra-alla/yap_projects/tree/)
-  - [**Металлургический завод, выпускной проект / Steel factory**  - *Project_11/final*](https://github.com/mishra-alla/yap_projects/tree/main/project_11)
-
 ## Контакты
 
 - email: allasr22@yandex.ru 
